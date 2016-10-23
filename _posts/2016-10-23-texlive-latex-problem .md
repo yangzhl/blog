@@ -1,9 +1,9 @@
 ---
 layout:     notebook
-title:      New Notebook
-author:     Ahmet Cecen
-tags: 		jupyter workflows template
-subtitle:   Showcasing Jupyter Notebook Translator Layout
+title:      Texlive 问题
+author:     yangzhl
+tags: 		jupyter workflows texlive
+subtitle:   排版问题
 category:  project1
 
 notebookfilename: intro
