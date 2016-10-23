@@ -1,3 +1,11 @@
+---
+layout:     notebook
+title:      wordpress on vps update
+author:     yangzhl
+tags: 		vps wordpress 
+subtitle:    show you how to update wordpress on vps
+---
+
 ####wordpress 更新版本，插件以及主题
 - - -
 ####更新版本

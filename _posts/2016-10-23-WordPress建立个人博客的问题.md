@@ -1,4 +1,12 @@
-####WordPress建立博客遇到的各种问题
+---
+layout:     notebook
+title:      WordPress建立博客遇到的各种问题
+author:     yangzhl
+tags: 		wordpress bug 
+subtitle:   deal with some problem
+---
+
+
 - unable to create directory wp-content/uploads. is its parent directory writable by the server   (图片无法上传的问题)
 
 解决方案：由于html下的wp-content的权限问题，将权限修改为777就可以了

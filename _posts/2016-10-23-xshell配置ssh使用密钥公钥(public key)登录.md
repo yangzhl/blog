@@ -1,3 +1,10 @@
+---
+layout:     notebook
+title:      xshell 配置ssh使用密钥公钥(public key)登录
+author:     yangzhl
+tags: 		xshell ssh public_key
+subtitle:   xshell set up ssh
+---
 ##安装
 `yum install openssh-server`  centos
 ssh一直提供两种方式登录：口令认证方式和密钥认证方式，但是密钥登录方式比较安全，因此非常有必要通过xshell配置ssh登录服务器
