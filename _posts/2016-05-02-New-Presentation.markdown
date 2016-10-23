@@ -144,7 +144,7 @@ Now, you CAN write in HTML using this template. If you want to create HTML prese
 
 ## Data Projector
 
-<embed src="/project-pages/2016/05/02/New-Projector/" height="500px" width="100%">
+<embed src="/blog/2016/05/02/New-Projector/" height="500px" width="100%">
 
 <!-- End Here -->
 {{ page.horizontal }}
