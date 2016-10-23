@@ -1,10 +1,13 @@
 ---
-layout:     post
-title:      New Matlab Script
+layout:     notebook
+title:      New Notebook
 author:     Ahmet Cecen
-tags: 		matlab workflows template
-subtitle:   Some Short Description of the Script
+tags: 		jupyter workflows template
+subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  project1
+
+notebookfilename: intro
+visualworkflow: true
 ---
 ####Texlive 问题
 1. ducumentclass 如果后面有两个可选项，则用下列方法
