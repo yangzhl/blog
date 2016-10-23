@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      New Matlab Script
+author:     Ahmet Cecen
+tags: 		matlab workflows template
+subtitle:   Some Short Description of the Script
+category:  project1
+---
 ####Texlive 问题
 1. ducumentclass 如果后面有两个可选项，则用下列方法
 /ducumentclass[UTF8,twoside]{ctexart}
