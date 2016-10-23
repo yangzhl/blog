@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      vps修改时区
+author:     yangzhl
+tags: 		vps timezone linux
+subtitle:  	change timezone problem in vps
+category:  project1
+---
+
 ###vps修改时区
 1.先登陆你的ssh，命令：date 看下时间是不是北京时间，如果不是我们把他改成北京时间。
 2.命令：
