@@ -6,8 +6,7 @@ tags: 		texlive layout
 subtitle:   常见的格式问题
 category:  project1
 
-notebookfilename: intro
-visualworkflow: false
+
 ---
 1. ducumentclass 如果后面有两个可选项，则用下列方法
 /ducumentclass[UTF8,twoside]{ctexart}
