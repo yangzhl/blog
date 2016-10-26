@@ -17,7 +17,6 @@ subtitle:  	github usage
 
 <!--## Headers-->
 
-[TOC]
 
 
 
@@ -25,6 +24,7 @@ subtitle:  	github usage
 `git clone githup_path/https_path`
         
 guthub_path是指github路径，或者https的路径
+
 ###  git clone branch
 `git clone -b mybranch --single-branch git://sub.domain.com/repo.git`
 mybranch 是指github的branch(分支)的名字
