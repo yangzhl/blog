@@ -30,6 +30,9 @@ guthub_path是指github路径，或者https的路径
 mybranch 是指github的branch(分支)的名字
 git://sub.domain.com/repo.git是指github克隆的路径
 
+<div class="footer">
+        &copy; 2016 yangzhl
+    </div>
 <!--## Header 2
 
 ### Header 3
