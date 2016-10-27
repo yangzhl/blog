@@ -94,13 +94,11 @@ Press B to pause the presentation.
 
 向左滑动就会进入相机界面。
 向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。
-<div align=center>
-<img src=“http://yangzhl.github.io/blog/img/post/2016-10-27-234045.png“ alt="锁屏关闭搜索" align="center" />
-</div>
 
-<div align=center>
+<img src=“http://yangzhl.github.io/blog/img/post/2016-10-27-234045.png“ alt="锁屏关闭搜索" align="center" />
+
+
 <img src=“http://yangzhl.github.io/blog/img/post/2016-10-27-234049.png“ alt="锁屏关闭搜索" align="center" />
-</div>
 
 
 
