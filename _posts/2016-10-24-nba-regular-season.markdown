@@ -23,8 +23,8 @@ subtitle:  	nba regular season is coming!
 <p> &emsp;&emsp;上赛季注定是个不平凡的赛季，注定载入史册。既有三大传奇nba巨星的退役，分别是湖人队的科比布莱恩特，马刺队的邓肯以及森林狼队的加内特，又上演了勒布朗詹姆斯在一比三落后的情况下，带队完成了惊天逆转，让克利夫兰这座城市尝到了52年一遇的冠军的喜悦。
 
 </p>
-<div align=center>
-<img src=“http://yangzhl.github.io/blog/img/nba/james.jpg“ alt="詹姆斯" align="center" />
+
+<img  alt="詹姆斯" src="http://yangzhl.github.io/blog/img/nba/james.jpg" align="center" />
 <p>&emsp;&emsp;在刚刚过去的休假期里，联盟同样发生深刻的变化。尼克斯进行了重组，公牛队的罗斯被交易到了尼克斯，似乎要形成以卡梅隆-安东尼、罗斯和克里斯塔普斯-波尔津吉斯的三角进攻，战力获得巨大提升，被予以冲出东部的希望。但是究竟本赛季能够打出什么水平，还是得看团队能否发生良性的化学反应。而凯文杜兰特加盟勇士激起了联盟的巨浪，从球员到球迷，大家对此事都是褒贬不一，陷入了对巨头抱团的争论中。
 
 </p>
@@ -40,7 +40,7 @@ subtitle:  	nba regular season is coming!
 </p>
 
 <img alt="莱纳德" src="http://yangzhl.github.io/blog/img/nba/lainadei.jpg" align ="center"/>
-</div>
+
 
 
 
