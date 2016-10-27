@@ -24,7 +24,7 @@ subtitle:  	nba regular season is coming!
 
 </p>
 <div align=center>
-![詹姆斯](http://yangzhl.github.io/blog/img/nba/james.jpg)
+<img src=“http://yangzhl.github.io/blog/img/nba/james.jpg“ alt="詹姆斯" align="center" />
 </div>
 <p>&emsp;&emsp;在刚刚过去的休假期里，联盟同样发生深刻的变化。尼克斯进行了重组，公牛队的罗斯被交易到了尼克斯，似乎要形成以卡梅隆-安东尼、罗斯和克里斯塔普斯-波尔津吉斯的三角进攻，战力获得巨大提升，被予以冲出东部的希望。但是究竟本赛季能够打出什么水平，还是得看团队能否发生良性的化学反应。而凯文杜兰特加盟勇士激起了联盟的巨浪，从球员到球迷，大家对此事都是褒贬不一，陷入了对巨头抱团的争论中。
 
@@ -32,7 +32,7 @@ subtitle:  	nba regular season is coming!
 
 <p>	&emsp;&emsp;东部保罗乔治在复出后的上个赛季打出了不错的战绩，今年乔治可是对MVP虎视眈眈。凯尔特人的重建慢慢看见了希望，在史蒂文斯的指教下，上赛季打出了精彩的表现，这赛季又如何呢？韦德离开了多年的热火队，回到了自己的家乡小牛队，韦德今年又将表现怎样呢？</p>
 <div align=center>
-![保罗乔治](http://yangzhl.github.io/blog/img/nba/jorge.jpg)
+<img alt="保罗乔治" src="http://yangzhl.github.io/blog/img/nba/jorge.jpg" align="center" />
 </div>
 <p>&emsp;而在西部马刺的顶梁柱邓肯虽然退役了，但是今年签了加索尔，并且球队的莱纳德的领袖才能逐渐凸显，加上阿德的帮助，马刺队的实力感觉有增无减。森林狼队现在聚集了一群天赋爆棚的新秀，比如唐斯，维金斯，拉文，未来的森林狼让人想起来就胆颤。湖人众小将在沃顿的指教下正逐渐成长。
 
@@ -40,7 +40,7 @@ subtitle:  	nba regular season is coming!
 
 </p>
 <div align=center>
-![莱纳德](http://yangzhl.github.io/blog/img/nba/lainadei.jpg)
+<img alt="莱纳德" src="http://yangzhl.github.io/blog/img/nba/lainadei.jpg" align ="center"/>
 </div>
 
 
