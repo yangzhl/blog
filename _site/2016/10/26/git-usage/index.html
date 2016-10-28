@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="An Blog Platform Used To Exchange With Others">
-	<meta property="og:title" content="从欧几里徳空间到希尔伯特空间" />
+	<meta property="og:title" content="git基本使用" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:4000//blog///2016/10/26/space/" />
+<meta property="og:url" content="http://localhost:4000//blog///2016/10/26/git-usage/" />
 <meta property="og:image" content="http://localhost:4000//blog//img/home-bg.jpg">
 	
 	
@@ -34,9 +34,9 @@
 
 	<link rel='shortcut icon' type='image/png' href='/blog//favicon.png' />
 
-    <title>从欧几里徳空间到希尔伯特空间 - Gino Young's Blog</title>
+    <title>git基本使用 - Gino Young's Blog</title>
 
-    <link rel="canonical" href="http://localhost:4000/blog//2016/10/26/space/">
+    <link rel="canonical" href="http://localhost:4000/blog//2016/10/26/git-usage/">
 	
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="http://localhost:4000/blog//css/bootstrap.min.css">
@@ -156,9 +156,9 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading" style="padding: 30px 0">
-                    <h1>从欧几里徳空间到希尔伯特空间</h1>
+                    <h1>git基本使用</h1>
                     
-                    <h2 class="subheading">空间概念的理解</h2>
+                    <h2 class="subheading">github usage</h2>
                     
                     <span class="meta">Posted by yangzhl on October 26, 2016</span>	
                 </div>
@@ -182,7 +182,7 @@
 	
 	<hr class="style-one">
 	
-	<a href="/blog//2016/10/27/ios10%E4%BD%93%E9%AA%8C/"><h2 class="post-title"> ios10体验</h2></a>
+	<a href="/blog//2016/10/27/ios10-experience/"><h2 class="post-title"> ios10体验</h2></a>
 	
 	
 		<h4 class="post-subtitle">new characteristic on ios10</h4>
@@ -221,18 +221,6 @@
 	
 	
 
-	
-	
-	
-
-	
-	 
-	
-	
-			
-		
-			
-		
 	
 	
 	
@@ -645,156 +633,128 @@ img:active{
 
 				<!-- Start Writing Below in Markdown -->
 
-<h1 id="table-of-contents">Table of Contents</h1>
+<!-- # Table of Contents
+* TOC
+{:toc}  -->
+
+<!--# Basic Functionality-->
+
+<!--## Headers-->
+
+<p><code class="highlighter-rouge">git clone githup_path/https_path</code></p>
+
+<p>guthub_path是指github路径，或者https的路径</p>
 
 <ul>
-  <li>
-    <p>欧几里德空间</p>
-  </li>
-  <li>
-    <p>希尔伯特空间</p>
-  </li>
+  <li>git clone branch</li>
 </ul>
 
-<h1 id="section">欧几里得空间</h1>
-<p>欧几里得空间是我们再熟悉不过的空间，尤其是三维欧式空间更是直觉就能感受的。那么，一般情况下的欧几里得空间是怎样的呢？</p>
-
-<h2 id="headers">Headers</h2>
-
-<h1 id="header-1">Header 1</h1>
-
-<h2 id="header-2">Header 2</h2>
-
-<h3 id="header-3">Header 3</h3>
-
-<h2 id="styling">Styling</h2>
-
-<p><strong>Bold</strong></p>
-
-<p><em>Italics</em></p>
-
-<p><strong><em>Bold and Italics</em></strong></p>
-
-<h2 id="lists">Lists</h2>
-
-<ol>
-  <li>
-    <p>Item 1</p>
-  </li>
-  <li>
-    <p>Item 2</p>
-  </li>
-</ol>
-
+<p><code class="highlighter-rouge">git clone -b mybranch --single-branch git://sub.domain.com/repo.git</code>
+mybranch 是指github的branch(分支)的名字
+git://sub.domain.com/repo.git是指github克隆的路径</p>
 <ul>
-  <li>
-    <p>Unordered Item</p>
-
-    <ul>
-      <li>
-        <p>Sub Item 1</p>
-
-        <ol>
-          <li><strong>Bold</strong> Sub Sub Ordered Item</li>
-        </ol>
-      </li>
-    </ul>
-  </li>
+  <li>git ssh 远程登录</li>
 </ul>
 
-<h2 id="links">Links</h2>
+<div class="footer">
+        &copy; 2016.10.26 yangzhl
+    </div>
 
-<p><a href="https://www.google.com">In-Line</a></p>
+<!--## Header 2
 
-<p><a href="https://www.mozilla.org">I’m a reference-style link 1</a></p>
+### Header 3
 
-<p><a href="http://www.reddit.com">I’m a reference-style link 1</a></p>
+## Styling
 
-<h2 id="images">Images</h2>
+**Bold**
 
-<p>Hold your pointer clicked over the image to expand the view.</p>
+*Italics*
 
-<p><img src="http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png" alt="Description" /></p>
+***Bold and Italics***
 
-<h2 id="code">Code</h2>
+## Lists
 
-<p>Inline <code class="highlighter-rouge">code</code>.</p>
+1. Item 1
+
+2. Item 2
+
+* Unordered Item
+
+  * Sub Item 1
+
+    1. **Bold** Sub Sub Ordered Item
+
+## Links
+
+[In-Line](https://www.google.com)
+
+[I'm a reference-style link 1][1]
+
+[I'm a reference-style link 1][2]
+
+[1]:https://www.mozilla.org
+[2]:http://www.reddit.com
+
+## Images
+
+Hold your pointer clicked over the image to expand the view.
+
+![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+
+## Code
+
+Inline `code`.
+
 
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
 <span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
     <span class="k">print</span><span class="p">(</span><span class="s">'Hello World!'')</span></code></pre></figure>
 
-<h2 id="mathjax">MathJax</h2>
 
-<p>Use MathJax for Math.
-<script type="math/tex">A = \pi r^2</script></p>
+## MathJax
 
-<h2 id="tables">Tables</h2>
+Use MathJax for Math.
+$$ A = \pi r^2 $$
 
-<table>
-  <thead>
-    <tr>
-      <th>Here</th>
-      <th style="text-align: left">is</th>
-      <th style="text-align: center">a</th>
-      <th style="text-align: right">row!</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>is</td>
-      <td style="text-align: left">Left</td>
-      <td style="text-align: center">Center</td>
-      <td style="text-align: right">Right</td>
-    </tr>
-    <tr>
-      <td>a</td>
-      <td style="text-align: left">cut</td>
-      <td style="text-align: center">it</td>
-      <td style="text-align: right">A</td>
-    </tr>
-    <tr>
-      <td>column</td>
-      <td style="text-align: left">short</td>
-      <td style="text-align: center">B</td>
-      <td style="text-align: right">C</td>
-    </tr>
-  </tbody>
-</table>
+## Tables
 
-<h2 id="quotes">Quotes</h2>
+Here | is | a | row!
+|---------|:----------|:----------:|---------:|
+is   |Left|  Center  |Right|
+a    | cut | it | A
+column  | short | B | C
 
-<blockquote>
-  <p>War does not decide who is <em>right</em>, only who is <strong>left</strong>.</p>
-</blockquote>
+## Quotes
 
-<h2 id="rule">Rule</h2>
+> War does not decide who is *right*, only who is **left**.
 
-<hr />
+## Rule
 
-<h2 id="html">HTML</h2>
+---
 
-<p>Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]</p>
+## HTML
 
-<h1 id="advanced-functionality">Advanced Functionality</h1>
+Can write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]
 
-<p>Head over to the <a href="http://projectpages.github.io/ppguide/">documentation page</a> for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.</p>
+# Advanced Functionality
 
-<h2 id="color-and-alignment">Color and Alignment</h2>
+Head over to the [documentation page](http://projectpages.github.io/ppguide/) for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
+
+## Color and Alignment
 
 <p align="center">This text is centered.</p>
 
 <p style="color:red">This is a red text with <span style="color:blue">blue</span> and <span style="color:green">green</span> inline text.</p>
 
-<h1 id="some-advanced-features">Some Advanced Features</h1>
+# Some Advanced Features
 
-<h2 id="data-projector">Data Projector</h2>
+## Data Projector
 
-<embed src="/blog/2016/05/02/New-Projector/" height="500px" width="100%" />
+<embed src="/blog/2016/05/02/New-Projector/" height="500px" width="100%">
 
-<h2 id="stl">STL</h2>
+## STL
 
-<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
+<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div> -->
 
 
 
@@ -803,12 +763,12 @@ img:active{
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/blog/2016/10/26/git-%E4%BD%BF%E7%94%A8/" data-toggle="tooltip" data-placement="top" title="git基本使用">&larr; Previous Post</a>
+                        <a href="/blog/2016/10/24/nba-regular-season/" data-toggle="tooltip" data-placement="top" title="nba 常规赛号角拉响了">&larr; Previous Post</a>
                     </li>
                     
                     
                     <li class="next">
-                        <a href="/blog/2016/10/27/ios10%E4%BD%93%E9%AA%8C/" data-toggle="tooltip" data-placement="top" title="ios10体验">Next Post &rarr;</a>
+                        <a href="/blog/2016/10/27/ios10-experience/" data-toggle="tooltip" data-placement="top" title="ios10体验">Next Post &rarr;</a>
                     </li>
                     
                 </ul>
