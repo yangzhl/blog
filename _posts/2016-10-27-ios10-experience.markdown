@@ -77,20 +77,16 @@ ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，�
 
 ### 更加智能化的图片分类
 
-photo1.PNG
+
 
 <figure class="half">
-    <img src="http://yangzhl.github.io/blog/img/post/photo1.PNG" alt="照片"  width="100cm" />
-    <img src="http://yangzhl.github.io/blog/img/post/photo2.PNG" alt="照片"  width="100cm" />
+    <img src="http://yangzhl.github.io/blog/img/post/photo1.PNG" alt="照片"  width="250cm" />
+    <img src="http://yangzhl.github.io/blog/img/post/photo2.PNG" alt="照片"  width="250cm" />
 </figure>
 
 
 
 {{ page.horizontal }}
-
-
-
-
 
 
 ##  锁屏
@@ -100,10 +96,25 @@ photo1.PNG
 向左滑动就会进入相机界面。
 向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。
 
-<img src="http://yangzhl.github.io/blog/img/post/2016-10-27-234045.png" alt="锁屏关闭搜索" align="center" />
 
 
-<img src="http://yangzhl.github.io/blog/img/post/2016-10-27-234059.png" alt="锁屏关闭搜索" align="center" />
+<figure class="half">
+    <img src="http://yangzhl.github.io/blog/img/post/2016-10-27-234045.png" alt="锁屏"  width="250cm" />
+    <img src="http://yangzhl.github.io/blog/img/post/2016-10-27-234059.png" alt="锁屏"  width="250cm" />
+</figure>
+
+
+
+
+
+
+
+{{ page.horizontal }}
+
+
+
+
+
 
 
 
@@ -113,19 +124,11 @@ photo1.PNG
 
 
 
-# Styling
 
 
-
-**Bold**
-
+{{ page.horizontal }}
 
 
-*Italics*
-
-
-
-***Bold and Italics***
 
 
 
@@ -133,11 +136,6 @@ photo1.PNG
 
 
 
-Use MathJax for Math.
-
-
-
-$$ A = \pi r^2 $$
 
 
 
@@ -145,73 +143,14 @@ $$ A = \pi r^2 $$
 
 
 
-# Lists
-
-
-
-1. Item 1
-
-
-
-2. Item 2
-
-
-
-3. Item 
-
 
 
 {{ page.horizontal }}
 
 
 
-# Links
 
 
-
-[In-Line](https://www.google.com)
-
-
-
-[I'm a reference-style link 1][1]
-
-
-
-[I'm a reference-style link 1][2]
-
-
-
-[1]:https://www.mozilla.org
-
-[2]:http://www.reddit.com
-
-
-
-{{ page.horizontal }}
-
-
-
-# Images
-
-
-
-Alt-Click to zoom.
-
-
-
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
-
-
-
-{{ page.horizontal }}
-
-
-
-# Code
-
-
-
-Inline `code`.
 
 
 
@@ -219,15 +158,14 @@ Inline `code`.
 
 
 
-# Code Block
+
+
+{{ page.horizontal }}
 
 
 
-	import numpy as np
 
-	def _set_colors():
 
-    HighRGB = np.array([26, 152, 80]) / 255.
 
 
 
@@ -235,81 +173,14 @@ Inline `code`.
 
 
 
-# Quotes
-
-
-
-> War does not decide who is right, only who is **left**.
-
-
-
 {{ page.horizontal }}
 
 
 
-# HTML
 
 
 
-Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to [reveal.js](http://lab.hakim.se/reveal-js/#/) for reference.  For a power-point like interactive tool for creating presentations with this theme, check [slides.com](http://slides.com/).
 
-
-
-{{ page.vertical }}
-
-
-
-# Some HTML Functionality
-
-
-
-## Color and Alignment
-
-
-
-<p align="center">This text is centered.</p>
-
-
-
-<p style="color:red">This is a red text with <span style="color:blue">blue</span> and <span style="color:green">green</span> inline text.</p>
-
-
-
-{{ page.horizontal }}
-
-
-
-## STL
-
-
-
-<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
-
-
-
-{{ page.horizontal }}
-
-
-
-## Data Projector
-
-
-
-<embed src="/blog/2016/05/02/New-Projector/" height="500px" width="100%">
-
-
-
-<!-- End Here -->
-
-{{ page.horizontal }}
-
-
-
-# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
-
-
-
-# [Back]({{ site.url }}{{ site.baseurl }})
 
 
 
