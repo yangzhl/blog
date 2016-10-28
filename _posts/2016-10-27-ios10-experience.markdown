@@ -60,8 +60,9 @@ ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，�
 {{ page.vertical }}
 
 ### 更加强大的地图
-
-<img src="http://yangzhl.github.io/blog/img/post/map.png" alt="ios10地图" align="center" />
+<center>
+<img src="http://yangzhl.github.io/blog/img/post/map.png" alt="ios10地图" align="center" width="300cm" />
+</center>
 
 
 {{ page.horizontal }}
@@ -76,7 +77,12 @@ ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，�
 
 ### 更加智能化的图片分类
 
+photo1.PNG
 
+<figure class="half">
+    <img src="http://yangzhl.github.io/blog/img/post/photo1.PNG" alt="照片"  width="100cm" />
+    <img src="http://yangzhl.github.io/blog/img/post/photo2.PNG" alt="照片"  width="100cm" />
+</figure>
 
 
 
