@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An Blog Platform Used To Exchange With Others">
+	<meta property="og:title" content="WordPress建立博客遇到的各种问题" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:4000//blog///2016/10/23/WordPress%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%97%AE%E9%A2%98/" />
+<meta property="og:image" content="http://localhost:4000//blog//img/home-bg.jpg">
+	
+	
+
+	<meta name="citation_title" content="Project Pages - An Integrated Scientific Blogging Template">
+
+
+<meta name="citation_author" content="Gino Young">
+
+
+<meta name="citation_author" content="Ahmet Cecen">
+
+
+<meta name="citation_author" content="David Brough">
+
+
+<meta name="citation_author" content="Surya R. Kalidindi">
+
+
+
+	
+
+	<link rel='shortcut icon' type='image/png' href='/blog//favicon.png' />
+
+    <title>WordPress建立博客遇到的各种问题 - Gino Young's Blog</title>
+
+    <link rel="canonical" href="http://localhost:4000/blog//2016/10/23/WordPress%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%97%AE%E9%A2%98/">
+	
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="http://localhost:4000/blog//css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="http://localhost:4000/blog//css/clean-blog.css">
+	
+	<!-- Adjust Colors -->
+    <link rel="stylesheet" href="http://localhost:4000/blog//colorscheme.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="http://localhost:4000/blog//css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!-- Math Jax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script type="text/javascript"
+	src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+	</script>
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+		TeX: { equationNumbers: { autoNumber: "AMS" } }
+	});
+	</script>
+
+	<!--<script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js" type="text/javascript"></script>-->
+
+    <!-- jQuery -->
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<!-- Custom Theme JavaScript -->
+	<script src="http://localhost:4000/blog//js/clean-blog.min.js "></script>
+	
+	
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75881392-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+	
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/blog//">Gino Young's Blog</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/blog//">Home</a>
+                </li>
+				
+                
+                <li>
+                    <a href="/blog//about/">About</a>
+                </li>
+                
+                <li>
+                    <a href="/blog//search/">Search</a>
+                </li>
+                
+                <li>
+                    <a href="/blog//members/">Members</a>
+                </li>
+                
+                <li>
+                    <a href="/blog//mentions/">Statement</a>
+                </li>
+                
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/blog//img/home-bg.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading" style="padding: 30px 0">
+                    <h1>WordPress建立博客遇到的各种问题</h1>
+                    
+                    <h2 class="subheading">deal with some problem</h2>
+                    
+                    <span class="meta">Posted by yangzhl on October 23, 2016</span>	
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+	
+	
+	
+	<div class="float-left">
+	<div class="recentpost" style="padding: 10px">
+	
+	<h4> Recently by the same author: </h4> 
+	
+	<hr class="style-one">
+	
+	<a href="/blog//2016/10/27/ios10%E4%BD%93%E9%AA%8C/"><h2 class="post-title"> ios10体验</h2></a>
+	
+	
+		<h4 class="post-subtitle">new characteristic on ios10</h4>
+	
+	
+	<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by yangzhl on October 27, 2016</p>
+	
+	<div class="notepad-index-post-tags" style="">
+	<a href="/blog//search/index.html#ios10" title="Other posts from the Ios10 tag">Ios10</a>
+	</div> 
+	
+			
+
+
+
+
+
+
+
+
+	
+	</div>
+	</div>
+	
+	
+	
+	
+		
+	
+
+<!-- Also Interesting -->
+
+
+
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+		 
+		
+		<div class="float-right">
+		<div class="relevantpost" style="padding: 10px">
+		
+		
+		<h4> You may find interesting: </h4> 
+		
+		<hr class="style-one">
+		
+		<a href="/blog//2016/10/23/wordpress-ftp%E6%9B%B4%E6%96%B0/"><h2 class="post-title"> wordpress on vps update</h2></a>
+		
+		
+			<h4 class="post-subtitle">show you how to update wordpress on vps</h4>
+		
+		
+		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by yangzhl on October 23, 2016</p>
+		
+		<div class="notepad-index-post-tags" style="">
+		<a href="/blog//search/index.html#vps" title="Other posts from the Vps tag">Vps</a>&nbsp;<a href="/blog//search/index.html#wordpress" title="Other posts from the Wordpress tag">Wordpress</a>
+		</div> 
+		
+		
+		
+		
+	
+	
+
+	
+	 
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+		 
+		
+		<hr class="style-one">
+		
+		<a href="/blog//2016/10/20/%E5%88%9D%E9%81%87java%E8%8B%A5%E5%B9%B2%E7%9A%84%E9%97%AE%E9%A2%98/"><h2 class="post-title"> 初遇java若干的问题</h2></a>
+		
+		
+			<h4 class="post-subtitle">初遇java若干的问题</h4>
+		
+		
+		<p class="post-meta" style="margin-top: 5px;margin-bottom:5px; font-size: 0.8em">Posted by yangzhl on October 20, 2016</p>
+		
+		<div class="notepad-index-post-tags" style="">
+		<a href="/blog//search/index.html#java" title="Other posts from the Java tag">Java</a>&nbsp;<a href="/blog//search/index.html#bug" title="Other posts from the Bug tag">Bug</a>
+		</div> 
+		
+		
+		
+		
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+	
+	 
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
+	
+
+
+		</div>
+		</div>
+
+<!-- Post Content -->
+<style>
+img {
+	display:block;
+	max-width:  100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media only screen and (min-width: 1000px) {
+img {
+	-moz-transition:-moz-transform 0.5s ease-in; 
+	-webkit-transition:-webkit-transform 0.5s ease-in; 
+	-o-transition:-o-transform 0.5s ease-in;
+}
+img:active{
+	-moz-transform:scale(1.2); 
+	-webkit-transform:scale(1.2);
+	-o-transform:scale(1.2);
+}
+}
+
+@media only screen and (min-width: 1250px) {
+img {
+	-moz-transition:-moz-transform 0.5s ease-in; 
+	-webkit-transition:-webkit-transform 0.5s ease-in; 
+	-o-transition:-o-transform 0.5s ease-in;
+}
+img:active{
+	-moz-transform:scale(1.5); 
+	-webkit-transform:scale(1.5);
+	-o-transform:scale(1.5);
+}
+}
+
+@media only screen and (min-width: 1500px) {
+img {
+	-moz-transition:-moz-transform 0.5s ease-in; 
+	-webkit-transition:-webkit-transform 0.5s ease-in; 
+	-o-transition:-o-transform 0.5s ease-in;
+}
+img:active{
+	-moz-transform:scale(2); 
+	-webkit-transform:scale(2);
+	-o-transform:scale(2);
+}
+}
+</style>
+
+<article>
+    <div id="content" class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<ul>
+  <li>unable to create directory wp-content/uploads. is its parent directory writable by the server   (图片无法上传的问题)</li>
+</ul>
+
+<p>解决方案：由于html下的wp-content的权限问题，将权限修改为777就可以了
+<code class="highlighter-rouge">root#chmod -R 777 /var/www/html/wp-content</code>
+权限修改完后插件以及主题也可以自动更新了，不需要手动更新。（这是非常省力的一件事情）</p>
+
+<hr />
+
+<ul>
+  <li>固定连接，修改完成后需要手动修改下面的文件.htaccess</li>
+</ul>
+
+<p>该文件的地址在wp-content/plugins/akismet/.htaccess</p>
+
+<hr />
+<ul>
+  <li>wordpress更改永久链接url not found 404</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>设置自定义格式  
+%year%
+文章发表的年份，四位数，如 2004
+%monthnum%
+月份，如 05
+%day%
+天，如 28
+%hour%
+小时，如 15
+%minute%
+分钟，如 43
+%second%
+秒，如 33
+%postname%
+文章标题的别名 (编辑文章/页面时的别名栏)。对于文章标题为 “This Is A Great Post!” 的%postname%是this-is-a-great-post(查看 仅仅使用 %postname%)。 出于性能原因，强烈不建议使用%postname%作为链接地址的开头。 *** 注 - 从WordPress 2.0开始这条建议可以无视了。
+%post_id%
+文章的唯一ID，如 423
+%category%
+分类的别名 (新建/编辑分类时的别名栏)。 有层级关系的类型在链接地址里就像有层级的目录。 出于性能原因，强烈不建议使用%category%作为链接地址的开头。
+%tag%
+标签的别名(新建/编辑标签时的别名栏)。 出于性能原因，强烈不建议使用%tag%作为链接地址的开头。
+%author%
+作者的别名。
+</code></pre>
+</div>
+<p>例如<code class="highlighter-rouge">/%year%/%monthnum%/%day%/%postname%/</code>
+这样可能还会出错  <code class="highlighter-rouge">/index.php/%year%/%monthnum%/%day%/%postname%/</code></p>
+
+<p>第二种方法
+（1）httpd.conf中</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>开启了对应的mode_rewrite模块：
+把：
+#LoadModule rewrite_module modules/mod_rewrite.so
+改为：
+LoadModule rewrite_module modules/mod_rewrite.so
+</code></pre>
+</div>
+<p>(2)htdocs根目录下已经存在了.htaccess,且设置都已经正确(读写权限，以及拥有者)
+.htaccess是控制固定链接的
+（3）AllowOverride Not Enabled 
+服务器可能没打开AllowOverride。
+如果Apache中配置文件httpd.config的AllowOverride设置的是None，那.htaccess将被忽略</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>代码如下	
+Directory /
+Options FollowSymLinks
+AllowOverride All
+# Order deny,allow
+# Deny from all
+/Directory
+</code></pre>
+</div>
+<p>也需要在DocumentRoot打开AllowOverride：</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>Directory “D:/wamp/www/” （这个取决于你的HTML文件放在哪里 ）
+# Possible values for the Options directive are “None”, “All”,
+# or any combination of:
+# Indexes Includes FollowSymLinks SymLinksifOwnerMatch ExecCGI MultiViews
+# Note that “MultiViews” must be named *explicitly* — “Options All”
+# doesn’t give it to you.
+# The Options directive is both complicated and important. Please see
+# http://httpd.apache.org/docs/2.2/mod/core.html#options
+# for more information.
+Options Indexes FollowSymLinks
+# AllowOverride controls what directives may be placed in .htaccess files.
+# It can be “All”, “None”, or any combination of the keywords:
+# Options FileInfo AuthConfig Limit
+AllowOverride all
+# Controls who can get stuff from this server.
+# onlineoffline tag – don’t remove
+# Order Allow,Deny
+# Allow from all
+/Directory
+</code></pre>
+</div>
+<p>修改完后需要重启apache 服务</p>
+
+<p><code class="highlighter-rouge">root#service httpd restart </code> 当然以上是基于你的http服务器是Apache，如果是nginx,则配置可能会有所差别。</p>
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+<ul class="pager">
+	
+	<li class="previous">
+		<a href="/blog/2016/10/23/Texlive-%E6%8E%92%E7%89%88%E9%97%AE%E9%A2%98/" data-toggle="tooltip" data-placement="top" title="Texlive 排版问题">&larr; Previous Post</a>
+	</li>
+	
+	
+	<li class="next">
+		<a href="/blog/2016/10/23/texlive-%E6%9F%A5%E8%AF%A2%E6%9C%AC%E5%9C%B0%E6%96%87%E6%A1%A3%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/" data-toggle="tooltip" data-placement="top" title="texlive 查询本地文档使用说明">Next Post &rarr;</a>
+	</li>
+	
+</ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+<div class="container" style="padding-right: 50px;padding-left: 50px;">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" id="disqus_thread">
+
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'project-pages';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<hr>
+
+
+
+
+	
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/blog//feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    <li>
+                        <a href="https://github.com/yangzhl/blog">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+									
+                </ul>
+                <p class="copyright text-muted"> Copyright © <a href="http://yangzhl.github.io/">Gino Young</a>,<a href="http://ahmetcecen.github.io/" target="_blank">Ahmet Cecenz</a>,  <a href="http://mined.gatech.edu/" target="_blank">MINED@GaTech</a> and <a href="https://github.com/projectpages" target="_blank">Project Pages</a> 2016. </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+</body>
+
+</html>

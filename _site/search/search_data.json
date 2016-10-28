@@ -1,0 +1,243 @@
+{
+  
+
+    "2016-10-27-ios10-e4-bd-93-e9-aa-8c": {
+      "title": "ios10体验",
+      "content"	 : "      ios10体验        most impressive: opening        yangzhl    12 00 AM ,Thu, Oct 27 2016            imeseage!    ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，比如玩游戏，增加了互动性。甚至还有各种表情包，功能甚至可以强大到类似于qq,微信的即时通讯的功能。        通知中心，控制中心        控制中心由原来的一栏变成了两栏，音乐单独一栏。    通知中心的搜索页面相比原来差别很大。每个应用的通知单独成一个小卡片。显得更加醒目。        Seperate with {{ page.vertical }} between content for vertical slides.        Press ESC for a zoomed out overview of the presentation.        Press B to pause the presentation.        锁屏    锁屏界面也变化了许多：取消了原来滑动解锁，变成了连续按两次弹出密码解锁。这对于iPadmini2用户来说可能有些受不了。但对于具有指纹解锁的iPhone设备来说差别就不是很大。    向左滑动就会进入相机界面。向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。                Styling    Bold    Italics    Bold and Italics        Use MathJax for Math.            Lists                  Item 1                    Item 2                    Item                  Links    In-Line    I’m a reference-style link 1    I’m a reference-style link 1        Images    Alt-Click to zoom.            Code    Inline code.        Code Block    import numpy as npdef _set_colors():HighRGB = np.array([26, 152, 80]) / 255.            Quotes          War does not decide who is right, only who is left.            HTML    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.        Some HTML Functionality    Color and Alignment    This text is centered.    This is a red text with blue and green inline text.        STL            Data Projector                Print    Back  ",
+      "url": "/blog//2016/10/27/ios10%E4%BD%93%E9%AA%8C/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-26-space": {
+      "title": "从欧几里徳空间到希尔伯特空间",
+      "content"	 : "Table of Contents      欧几里德空间        希尔伯特空间  欧几里得空间欧几里得空间是我们再熟悉不过的空间，尤其是三维欧式空间更是直觉就能感受的。那么，一般情况下的欧几里得空间是怎样的呢？HeadersHeader 1Header 2Header 3StylingBoldItalicsBold and ItalicsLists      Item 1        Item 2        Unordered Item                  Sub Item 1                  Bold Sub Sub Ordered Item                    LinksIn-LineI’m a reference-style link 1I’m a reference-style link 1ImagesHold your pointer clicked over the image to expand the view.CodeInline code.import numpy as npdef hello_world():    print(&#39;Hello World!&#39;&#39;)MathJaxUse MathJax for Math.Tables            Here      is      a      row!                  is      Left      Center      Right              a      cut      it      A              column      short      B      C      Quotes  War does not decide who is right, only who is left.RuleHTMLCan write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]Advanced FunctionalityHead over to the documentation page for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.Color and AlignmentThis text is centered.This is a red text with blue and green inline text.Some Advanced FeaturesData ProjectorSTL",
+      "url": "/blog//2016/10/26/space/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-26-git-e4-bd-bf-e7-94-a8": {
+      "title": "git基本使用",
+      "content"	 : "git 克隆仓库（默认是master）git clone githup_path/https_pathguthub_path是指github路径，或者https的路径git clone branchgit clone -b mybranch --single-branch git://sub.domain.com/repo.gitmybranch 是指github的branch(分支)的名字git://sub.domain.com/repo.git是指github克隆的路径        &amp;copy; 2016 yangzhl    ",
+      "url": "/blog//2016/10/26/git-%E4%BD%BF%E7%94%A8/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-24-nba-regular-season": {
+      "title": "nba 常规赛号角拉响了",
+      "content"	 : "&amp;emsp;&amp;emsp;2016-2017的nba常规赛即将在10月26日拉开序幕。当天就有去年总决赛的两支队伍：骑士和勇士的两场比赛，分别是骑士对阵尼克斯队以及勇士对阵马刺队。第一天的比赛就这么有看头，让人不禁对新赛季充满了期待。 &amp;emsp;&amp;emsp;上赛季注定是个不平凡的赛季，注定载入史册。既有三大传奇nba巨星的退役，分别是湖人队的科比布莱恩特，马刺队的邓肯以及森林狼队的加内特，又上演了勒布朗詹姆斯在一比三落后的情况下，带队完成了惊天逆转，让克利夫兰这座城市尝到了52年一遇的冠军的喜悦。&amp;emsp;&amp;emsp;在刚刚过去的休假期里，联盟同样发生深刻的变化。尼克斯进行了重组，公牛队的罗斯被交易到了尼克斯，似乎要形成以卡梅隆-安东尼、罗斯和克里斯塔普斯-波尔津吉斯的三角进攻，战力获得巨大提升，被予以冲出东部的希望。但是究竟本赛季能够打出什么水平，还是得看团队能否发生良性的化学反应。而凯文杜兰特加盟勇士激起了联盟的巨浪，从球员到球迷，大家对此事都是褒贬不一，陷入了对巨头抱团的争论中。&amp;emsp;&amp;emsp;东部保罗乔治在复出后的上个赛季打出了不错的战绩，今年乔治可是对MVP虎视眈眈。凯尔特人的重建慢慢看见了希望，在史蒂文斯的指教下，上赛季打出了精彩的表现，这赛季又如何呢？韦德离开了多年的热火队，回到了自己的家乡小牛队，韦德今年又将表现怎样呢？&amp;emsp;而在西部马刺的顶梁柱邓肯虽然退役了，但是今年签了加索尔，并且球队的莱纳德的领袖才能逐渐凸显，加上阿德的帮助，马刺队的实力感觉有增无减。森林狼队现在聚集了一群天赋爆棚的新秀，比如唐斯，维金斯，拉文，未来的森林狼让人想起来就胆颤。湖人众小将在沃顿的指教下正逐渐成长。&amp;emsp;&amp;emsp;短短的时间内发生了太多令人震撼的事情，不禁让我们对联盟的新赛季充满了期待。未来是能接过勒布朗的旗帜，独霸联盟呢？这一切都是未知数，就让我们慢慢的见证！",
+      "url": "/blog//2016/10/24/nba-regular-season/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-xshell-e9-85-8d-e7-bd-aessh-e4-bd-bf-e7-94-a8-e5-af-86-e9-92-a5-e5-85-ac-e9-92-a5-public-key-e7-99-bb-e5-bd-95": {
+      "title": "xshell 配置ssh使用密钥公钥(public key)登录",
+      "content"	 : "##安装yum install openssh-server  centosssh一直提供两种方式登录：口令认证方式和密钥认证方式，但是密钥登录方式比较安全，因此非常有必要通过xshell配置ssh登录服务器##生成密钥利用xshell客户端产生密钥，产生密钥的过程中会要求输入一个密码，用来产生加密的私钥（这个密码一定不能忘记，在连接服务器时还需要验证这个密码），生成完后，也会产生一个公钥，文件后缀为.pub，我们需要把这本钥匙上传到我们的服务器中去。这个部分利用搭建的vsftpd服务就可以。在这里就不具体展开了。上传完后把公钥放到~/.ssh/authorized_keys 文件中去就可以了。###配置ssh",
+      "url": "/blog//2016/10/23/xshell%E9%85%8D%E7%BD%AEssh%E4%BD%BF%E7%94%A8%E5%AF%86%E9%92%A5%E5%85%AC%E9%92%A5(public-key)%E7%99%BB%E5%BD%95/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-wordpress-ftp-e6-9b-b4-e6-96-b0": {
+      "title": "wordpress on vps update",
+      "content"	 : "####wordpress 更新版本，插件以及主题####更新版本  备份你的WordPress数据及文件  下载wordpress的最新安装包到你的本地，并解压  (deactivate)停用所有的插件对你的WordPress网站。  登陆你的主机或者空间，删除掉wp-includes和wp-admin目录下的文件  之前下了的最新版本wordpress解压后，除了wp-content目录外的所有文件都上传并覆盖到你博客主机相对应的位置。遇到是否覆盖时，选择全部覆盖就是了。  覆盖完后，运行 http://你的博客地址/wp-admin/upgrade.php，执行升级。好了，按照以上方法####更新插件  下载插件的压缩包到本地，解压  利用ftp登录你的网站，文件上传到WordPress的wp-content中的plugins  update httpd,然后刷新的的网站####更新主题与上面更新插件类似参考文献：Upgrading WordPress - Extended Instructions",
+      "url": "/blog//2016/10/23/wordpress-ftp%E6%9B%B4%E6%96%B0/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-winedt-e7-a0-b4-e8-a7-a3": {
+      "title": "winedt 破解",
+      "content"	 : "##winedt9      打开winedt，到菜单options–&amp;gt;options interface…，这个选项包含了WinEdt的所有可配置的参数个功能，非常强大。单击子菜单项，已进行相关设置。        刚才单击后，在WInEdt编辑区域左侧会弹出树形配置窗口，在第一层树形节点最下面找到advance configuration…-，单击展开。        在展开后的子树分支中靠上面的地方找到event handlers子项，单击并展开。        在刚展开的子树分支项中靠前面点找到Exit子项，并双击。        然后可以看到右边弹出一个名为Exit.edt的配置文件，这个文件就是每次关闭WinEdt是，WinEdt会自行执行该文件中的语句。        在配置文件Exit.edt最后一句“END;”前面一行加入  RegDeleteValue(&#39;HKEY_CURRENT_USER&#39;, &#39;SoftwareWinEdt 9&#39;, &#39;Inst&#39;);然后单击保存。到此破解WinEdt的步骤基本完成，但是暂时不要关闭WinEdt程序，我们看看效果。",
+      "url": "/blog//2016/10/23/winedt%E7%A0%B4%E8%A7%A3/",
+      "author": "",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-winedt-e4-b8-8etexlive-e5-85-b3-e8-81-94": {
+      "title": "winedt与texlive关联",
+      "content"	 : "#打开option-&amp;gt;execution modes-&amp;gt;Tex system  找到合适的 Tex root 和Tex bin 文件夹的正确位置，点击OK，重启后很多.exe文件已经关联起来了。",
+      "url": "/blog//2016/10/23/winedt%E4%B8%8Etexlive%E5%85%B3%E8%81%94/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-vps-change-time-zone": {
+      "title": "vps change time zone",
+      "content"	 : "  先登陆你的ssh，命令：date 看下时间是不是北京时间，如果不是我们把他改成北京时间。  命令：rm -rf /etc/localtimeln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime应该就OK了！用date瞅瞅系统时间已经变成北京了吧上海和北京时区一样的，时区的配置文件在/usr/share/zoneinfo 里面如果此时你的vps时间已经改成北京时间就不用看下面了，如果此时你的vps时间还没有修改好。再试下命令：ntpdate stdtime.sinica.edu.tw（如果不行，就换这个ntpdate us.pool.ntp.org）使用ntpdate stdtime.sinica.edu.tw 时候如果提示这个命令，先安装 ntpdate就可以了。centos 系统的vps用命令：yum -y install ntpdate ntpUbuntu系统的：sudo apt-get install -y ntpdate ntp安装完毕再试这个命令，如果还不可以的话，一般情况就是母鸡做了设置不让修改你vps的时间了，vpsma没有想到好的办法，可以写信或者发ticket给你的vps商，告诉他你的时区。看下他们可以帮忙把你vps修改成北京时间吗。Linux linode vps将时间改成北京时间",
+      "url": "/blog//2016/10/23/vps-change-time-zone/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-texlive-e6-9f-a5-e8-af-a2-e6-9c-ac-e5-9c-b0-e6-96-87-e6-a1-a3-e4-bd-bf-e7-94-a8-e8-af-b4-e6-98-8e": {
+      "title": "texlive 查询本地文档使用说明",
+      "content"	 : "  首先得先将texlive的bin加入path变量当中  其次才可以打开dos命令窗口，使用命令texdoc 就可以查询到帮助文档和。也可以选择在线查询的地址",
+      "url": "/blog//2016/10/23/texlive-%E6%9F%A5%E8%AF%A2%E6%9C%AC%E5%9C%B0%E6%96%87%E6%A1%A3%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-wordpress-e5-bb-ba-e7-ab-8b-e4-b8-aa-e4-ba-ba-e5-8d-9a-e5-ae-a2-e7-9a-84-e9-97-ae-e9-a2-98": {
+      "title": "WordPress建立博客遇到的各种问题",
+      "content"	 : "  unable to create directory wp-content/uploads. is its parent directory writable by the server   (图片无法上传的问题)解决方案：由于html下的wp-content的权限问题，将权限修改为777就可以了root#chmod -R 777 /var/www/html/wp-content权限修改完后插件以及主题也可以自动更新了，不需要手动更新。（这是非常省力的一件事情）  固定连接，修改完成后需要手动修改下面的文件.htaccess该文件的地址在wp-content/plugins/akismet/.htaccess  wordpress更改永久链接url not found 404设置自定义格式  %year%文章发表的年份，四位数，如 2004%monthnum%月份，如 05%day%天，如 28%hour%小时，如 15%minute%分钟，如 43%second%秒，如 33%postname%文章标题的别名 (编辑文章/页面时的别名栏)。对于文章标题为 “This Is A Great Post!” 的%postname%是this-is-a-great-post(查看 仅仅使用 %postname%)。 出于性能原因，强烈不建议使用%postname%作为链接地址的开头。 *** 注 - 从WordPress 2.0开始这条建议可以无视了。%post_id%文章的唯一ID，如 423%category%分类的别名 (新建/编辑分类时的别名栏)。 有层级关系的类型在链接地址里就像有层级的目录。 出于性能原因，强烈不建议使用%category%作为链接地址的开头。%tag%标签的别名(新建/编辑标签时的别名栏)。 出于性能原因，强烈不建议使用%tag%作为链接地址的开头。%author%作者的别名。例如/%year%/%monthnum%/%day%/%postname%/这样可能还会出错  /index.php/%year%/%monthnum%/%day%/%postname%/第二种方法（1）httpd.conf中开启了对应的mode_rewrite模块：把：#LoadModule rewrite_module modules/mod_rewrite.so改为：LoadModule rewrite_module modules/mod_rewrite.so(2)htdocs根目录下已经存在了.htaccess,且设置都已经正确(读写权限，以及拥有者).htaccess是控制固定链接的（3）AllowOverride Not Enabled 服务器可能没打开AllowOverride。如果Apache中配置文件httpd.config的AllowOverride设置的是None，那.htaccess将被忽略代码如下Directory /Options FollowSymLinksAllowOverride All# Order deny,allow# Deny from all/Directory也需要在DocumentRoot打开AllowOverride：Directory “D:/wamp/www/” （这个取决于你的HTML文件放在哪里 ）# Possible values for the Options directive are “None”, “All”,# or any combination of:# Indexes Includes FollowSymLinks SymLinksifOwnerMatch ExecCGI MultiViews# Note that “MultiViews” must be named *explicitly* — “Options All”# doesn’t give it to you.# The Options directive is both complicated and important. Please see# http://httpd.apache.org/docs/2.2/mod/core.html#options# for more information.Options Indexes FollowSymLinks# AllowOverride controls what directives may be placed in .htaccess files.# It can be “All”, “None”, or any combination of the keywords:# Options FileInfo AuthConfig LimitAllowOverride all# Controls who can get stuff from this server.# onlineoffline tag – don’t remove# Order Allow,Deny# Allow from all/Directory修改完后需要重启apache 服务root#service httpd restart  当然以上是基于你的http服务器是Apache，如果是nginx,则配置可能会有所差别。",
+      "url": "/blog//2016/10/23/WordPress%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%97%AE%E9%A2%98/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-23-texlive-e6-8e-92-e7-89-88-e9-97-ae-e9-a2-98": {
+      "title": "Texlive 排版问题",
+      "content"	 : "      ducumentclass 如果后面有两个可选项，则用下列方法/ducumentclass[UTF8,twoside]{ctexart}即 /documentclass[option1,option2]{}        latex itemize后的文本的排版格式问题  ",
+      "url": "/blog//2016/10/23/Texlive-%E6%8E%92%E7%89%88%E9%97%AE%E9%A2%98/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-22-xshell-connect": {
+      "title": "xshell 连接",
+      "content"	 : "//安装sshd服务$ sudo apt-get install openssh-server//开启服务$ /etc/init.d/ssh start//关闭服务$ /etc/init.d/ssh stop//重启服务$ /etc/init.d/ssh restartCentOS上检设置：  关闭防火墙service iptables stopchkconfig iptables off  启动ssh服务service sshd start",
+      "url": "/blog//2016/10/22/xshell_connect/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-20-e5-88-9d-e9-81-87java-e8-8b-a5-e5-b9-b2-e7-9a-84-e9-97-ae-e9-a2-98": {
+      "title": "初遇java若干的问题",
+      "content"	 : "  Error:(5, 7) Gradle: 错误: 类HelloWorld是公共的, 应在名为 HelloWorld.java 的文件中声明公共类名应与文件名同名      我们一般写的类都是公共的（public），JAVA要求保存公共类的文件的文件名必须与类同名，而且要注意大小写。否则会报错：类XX是公共的，应在名为XX.java的文件中声明。这里的“XX”指代某个类名，以下亦然Android输出乱码解决办法解决办法，在Java工程目录下的build.gradle添加如下代码，然后重新运行一遍。 1.新版gradletasks.withType(JavaCompile) {    options.encoding = “UTF-8”}2.旧版gradletasks.withType(Compile) {    options.encoding = “UTF-8”}",
+      "url": "/blog//2016/10/20/%E5%88%9D%E9%81%87java%E8%8B%A5%E5%B9%B2%E7%9A%84%E9%97%AE%E9%A2%98/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-10-01-e6-9c-8d-e5-8a-a1-e5-99-a8-e6-90-ad-e5-bb-bawordpress": {
+      "title": "服务器搭建WordPress",
+      "content"	 : "refence1. How To Install Wordpress on Centos 6       set up LAMP(linux Apache Mysql Php)          Install Apache        ```    sudo yum install httpd    sudo service httpd start  That’s it. To check if Apache is installed, direct your browser to your server’s IP address (eg. http://12.34.56.789). The page should display the words “It works!&quot; like [this](http://assets.digitalocean.com/tutorial_images/NLSJR.png).~查找ip 使用命令行ifconfig就可以了~- Install Apache```sudo yum install mysql-serversudo service mysqld startsudo /usr/bin/mysql_secure_installation给mysql设置root密码安装过程会一直问你问题，一直选择y就可以安装了Once it is done installing, you can set a root MySQL password:（只允许root用户能够登陆mysql）以root身份登陆mysql `mysql -u root -p`- Install PHPsudo yum install php php-mysql**PHP Modules**PHP also has a variety of useful libraries and modules that you can add onto your server. You can see the libraries that are available by typing:`yum search php-`Terminal then will display the list of possible modules. The beginning looks like this:    php-bcmath.x86_64 : A module for PHP applications for using the bcmath library    php-cli.x86_64 : Command-line interface for PHP    php-common.x86_64 : Common files for PHP    php-dba.x86_64 : A database abstraction layer module for PHP applications    php-devel.x86_64 : Files needed for building PHP extensions    php-embedded.x86_64 : PHP library for embedding in applications    php-enchant.x86_64 : Human Language and Character Encoding Support    php-gd.x86_64 : A module for PHP applications for using the gd graphics library    php-imap.x86_64 : A module for PHP applications that use IMAPTo see more details about what each module does, type the following command into terminal, replacing the name of the module with whatever library you want to learn about.    yum info name of the moduleOnce you decide to install the module, type:sudo yum install name of the moduleYou can install multiple libraries at once by separating the name of each module with a space.Congratulations! You now have LAMP stack on your droplet!直至安装成成功了设置这三个服务开机启动We should also set the processes to run automatically when the server boots (php will run automatically once Apache starts):sudo chkconfig httpd onsudo chkconfig mysqld on- See PHP on your ServerAlthough LAMP is installed on your virtual server, we can still take a look and see the components online by creating a quick php info pageTo set this up, first create a new file:sudo nano /var/www/html/info.phpAdd in the following line:Then Save and Exit.Restart apache so that all of the changes take effect on your virtual server:sudo service httpd restartFinish up by visiting your php info page (make sure you replace the example ip address with your correct one): http://12.34.56.789/info.php  安装WordPresswget http://wordpress.org/latest.tar.gztar -xzvf latest.tar.gz  创建WordPress数据库和用户Now we need to switch gears for a moment and create a new MySQL directory for wordpress.Go ahead and log into the MySQL Shell:mysql -u root -pCREATE DATABASE wordpress; (创建数据库名称wordpress)Query OK, 1 row affected (0.00 sec)CREATE USER wordpressuser@localhost;（创建用户名wordpressuser）Query OK, 0 rows affected (0.00 sec)SET PASSWORD FOR wordpressuser@localhost= PASSWORD(“password”);（创建密码password）Query OK, 0 rows affected (0.00 sec)Finish up by granting all privileges to the new user. Without this command, the wordpress installer will not be able to start up:GRANT ALL PRIVILEGES ON wordpress.* TO wordpressuser@localhost IDENTIFIED BY ‘password’;Query OK, 0 rows affected (0.00 sec)Then refresh MySQL:FLUSH PRIVILEGES;Query OK, 0 rows affected (0.00 sec)      Setup the WordPress Configuration    We are almost done uploading Wordpress to the server. The final move that remains is to transfer the unzipped WordPress files to the website’s root directory.    sudo cp -r ~/wordpress/* /var/www/html  From here, WordPress has its own easy to follow installation form online.However, the form does require a specific php module to run. If it is not yet installed on your server, download php-gd:sudo yum install php-gdLast of all restart Apache:sudo service httpd restartStep Five—RESULTS: Access the WordPress InstallationOnce that is all done, the wordpress online installation page is up and waiting for you:Access the page by adding /wp-admin/install.php to your site’s domain or IP address (eg. example.com/wp-admin/install.php) and fill out the short online form (it should look like this).关于mysql的一些说明      mysql语法必须以;分号结束        如果WordPress忘记密码可以在mysql中重新设置    Log into server as rootmysql -u root -p      Enter to MySQL command prompt.        use user_images  Use WordPress database.You can check the database name from the WordPress configuration file.`mysql&amp;gt; use user_images;Reading table information for completion of table and column namesYou can turn off this feature to get a quicker startup with -ADatabase changed~`4, Verify user details from “wp_users” table.We need to select only the following details from “wp_users” table.mysql&amp;gt; SELECT ID, user_login, user_pass FROM wp_users;+—-+————+————————————+            ID      user_login      user_pass      +—-+————+————————————+            1      admin      $P$BjUKUieEYT1B3TnkQHsv4Y8hfnSK5t.      +—-+————+————————————+1 row in set (0.00 sec)mysql&amp;gt;This WordPress has only one user “Admin”. The password displayed here isn’t real, it’s in MD5 encrypted format.5, Updating user password.This is the point that we are looking for. As I mentioned, the password displayed is in MD5 format. In latest MySQL versions we can generate the password in MD5 format from the commandline itself. Please see the syntax:mysql&amp;gt; UPDATE wp_users SET user_pass = MD5(‘WPEXPLORER’) WHERE ID=1 LIMIT 1;(注意WPEXPLORER为新设置的密码，应该要用英文的单引号标记，不要用中文的单引号会出错)In previous versions we have to enter the password in MD5 format. It’s simple, we can generate it from here » MD5 «Syntax to change the passwordmysql&amp;gt; UPDATE wp_users SET user_pass = “61250b88abfe298f2df4821d081a3add”  WHERE ID=1;Here the user pass in MD5 format.See the updated password:mysql&amp;gt; SELECT ID, user_login, user_pass FROM wp_users;+—-+————+———————————-+            ID      user_login      user_pass      +—-+————+———————————-+            1      admin      61250b88abfe298f2df4821d081a3add      +—-+————+———————————-+1 row in set (0.00 sec)mysql&amp;gt;",
+      "url": "/blog//2016/10/01/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAWordPress/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-surface-visualization": {
+      "title": "New Surface Visualization",
+      "content"	 : "This is a test",
+      "url": "/blog//2016/05/02/New-Surface-Visualization/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-projector": {
+      "title": "New Projector",
+      "content"	 : "",
+      "url": "/blog//2016/05/02/New-Projector/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-presentation": {
+      "title": "New Presentation",
+      "content"	 : "      New Presentation        Ahmet Cecen    12 00 AM ,Mon, May 02 2016            F11 to Fullscreen!    Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling.        Seperate with {{ page.horizontal }} between content for horizontal slides.        Seperate with {{ page.vertical }} between content for vertical slides.        Press ESC for a zoomed out overview of the presentation.        Press B to pause the presentation.        Header 1    Header 2    Header 3        Styling    Bold    Italics    Bold and Italics        Use MathJax for Math.            Lists                  Item 1                    Item 2                    Item                  Links    In-Line    I’m a reference-style link 1    I’m a reference-style link 1        Images    Alt-Click to zoom.            Code    Inline code.        Code Block    import numpy as npdef _set_colors():HighRGB = np.array([26, 152, 80]) / 255.            Quotes          War does not decide who is right, only who is left.            HTML    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.        Some HTML Functionality    Color and Alignment    This text is centered.    This is a red text with blue and green inline text.        STL            Data Projector                Print    Back  ",
+      "url": "/blog//2016/05/02/New-Presentation/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-post": {
+      "title": "New Post",
+      "content"	 : "Table of Contents  Table of Contents  Basic Functionality          Headers        Header 1          Header 2                  Header 3                    Styling      Lists      Links      Images      Code      MathJax      Tables      Quotes      Rule      HTML        Advanced Functionality          Color and Alignment        Some Advanced Features          Data Projector      STL      Basic FunctionalityHeadersHeader 1Header 2Header 3StylingBoldItalicsBold and ItalicsLists      Item 1        Item 2        Unordered Item                  Sub Item 1                  Bold Sub Sub Ordered Item                    LinksIn-LineI’m a reference-style link 1I’m a reference-style link 1ImagesHold your pointer clicked over the image to expand the view.CodeInline code.import numpy as npdef hello_world():    print(&#39;Hello World!&#39;&#39;)MathJaxUse MathJax for Math.Tables            Here      is      a      row!                  is      Left      Center      Right              a      cut      it      A              column      short      B      C      Quotes  War does not decide who is right, only who is left.RuleHTMLCan write the whole post or sections in HTML for very specific needs. [For the advanced user or the code savvy.]Advanced FunctionalityHead over to the documentation page for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.Color and AlignmentThis text is centered.This is a red text with blue and green inline text.Some Advanced FeaturesData ProjectorSTL",
+      "url": "/blog//2016/05/02/New-Post/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-notebook": {
+      "title": "New Notebook",
+      "content"	 : "",
+      "url": "/blog//2016/05/02/New-Notebook/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    ,
+  
+
+    "2016-05-02-new-matlab-script": {
+      "title": "New Matlab Script",
+      "content"	 : " Workflow Overview graph TBnode1(Load Variables From Workspace)click node1 &quot;#1&quot;node1(Load Variables From Workspace) --&amp;gt; node2(Obtain 2-Point Statistics)click node2 &quot;#2&quot;node2(Obtain 2-Point Statistics) --&amp;gt; node3(PCA)click node3 &quot;#3&quot;node3(PCA) --&amp;gt; node4(Function Estimation)click node4 &quot;#4&quot;Obtain the direct to Project-Pages publish function here.Load Variables From WorkspaceLoading the microstructures and the effective property.load GDL200Volumes.matload MPL290Volumes.matload EffectiveProperty290MPL200GDLinThatOrder.matObtain 2-Point StatisticsGG = zeros(490,49^3);for i=1:290    current = MPL{i};    GGcurrent = TwoPointMaster(&#39;full&#39;,&#39;auto&#39;,25,current);    GG(i,:) = GGcurrent(:)/numel(current);    PP(i)=GGcurrent(25,25,25)/numel(current);endfor i=1:200    current = GDL{i};    GGcurrent = TwoPointMaster(&#39;full&#39;,&#39;auto&#39;,25,current);    GG(i+290,:) = GGcurrent(:)/numel(current);    PP(i+290)=GGcurrent(25,25,25)/numel(current);endPCAVia SVD: [PC1,Var1,Basis1]=PCAConstruct(GG,10);scatter(PC1(:,1),PC1(:,2),30,[ones(290,1);2*ones(200,1)],&#39;filled&#39;); colormap jet;Function EstimationUsing Multivariate Polynomial Regressionreg = MultiPolyRegress(PC1(:,1:2),R,3,&#39;figure&#39;)reg =            FitParameters: &#39;-----------------&#39;             PowerMatrix: [10x2 double]                  Scores: [490x10 double]    PolynomialExpression: [10x2 table]            Coefficients: [10x1 double]                    yhat: [490x1 double]               Residuals: [490x1 double]           GoodnessOfFit: &#39;-----------------&#39;                 RSquare: 0.9572                     MAE: 0.0571                  MAESTD: 0.0561           Normalization: &#39;1-to-1 (Default)&#39;      LOOCVGoodnessOfFit: &#39;-----------------&#39;               CVRSquare: 0.9556                   CVMAE: 0.0583                CVMAESTD: 0.0570         CVNormalization: &#39;1-to-1 (Default)&#39;Published with MATLAB® R2014b",
+      "url": "/blog//2016/05/02/New-Matlab-Script/",
+      "author": "Ahmet Cecen",
+      "categories": ""
+    }
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+}
