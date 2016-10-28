@@ -156,3 +156,8 @@ prose:
           element: "checkbox"
           label: "Visual Workflow Chart (Some Layouts)"
           value: "true"
+ #增加多说评论         
+comments :  
+     provider : duoshuo
+     duoshuo : 
+     short_name : remark
