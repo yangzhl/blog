@@ -7,12 +7,12 @@ subtitle:  	record something when I use jekyll to set up my blog
 
 ---
 <!-- Start Writing Below in Markdown -->
-# 目录
+
+
+# Table of Contents
+
 * TOC
 {:toc}
-
-
-
 
 
 # jekyll、github 搭建个人博客方法
