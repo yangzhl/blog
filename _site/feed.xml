@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gino Young's Blog</title>
-    <description>An Blog Platform Used To Exchange With Others</description>
+    <description>It's been a long day without you my friend </description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 Oct 2016 21:45:53 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 21:45:53 +0800</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 22:08:42 +0800</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 22:08:42 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -138,6 +138,11 @@ jekyll目录结构
 
     更加智能化的图片分类
 
+    
+    
+    
+
+
   
 
 
@@ -145,161 +150,62 @@ jekyll目录结构
 
     锁屏
 
-    锁屏界面也变化了许多：取消了原来滑动解锁，变成了连续按两次弹出密码解锁。这对于iPadmini2用户来说可能有些受不了。但对于具有指纹解锁的iPhone设备来说差别就不是很大。
+    锁屏界面也变化了许多：取消了原来滑动解锁，变成了连续按两次弹出密码解锁。这对于iPad mini2用户来说可能有些受不了。但对于具有指纹解锁的iPhone设备来说差别就不是很大。
 
-    向左滑动就会进入相机界面。
-向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。
-
-    
+    向左滑动就会进入相机界面;向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。
 
     
-
-  
-
-
-  
-
-    Styling
-
-    Bold
-
-    Italics
-
-    Bold and Italics
-
-  
-
-
-  
-
-    Use MathJax for Math.
-
+    
     
 
-  
-
-
-  
-
-    Lists
-
-    
-      
-        Item 1
-      
-      
-        Item 2
-      
-      
-        Item
-      
-    
 
   
 
 
   
 
-    Links
+  
 
-    In-Line
 
-    I’m a reference-style link 1
-
-    I’m a reference-style link 1
+  
 
   
 
 
   
 
-    Images
+  
 
-    Alt-Click to zoom.
 
-    
+  
 
   
 
 
   
 
-    Code
+  
 
-    Inline code.
+
+  
 
   
   
-
-    Code Block
-
-    import numpy as np
-
-def _set_colors():
-
-HighRGB = np.array([26, 152, 80]) / 255.
-
-    
 
   
 
 
   
 
-    Quotes
-
-    
-      War does not decide who is right, only who is left.
-    
-
   
 
 
   
 
-    HTML
-
-    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.
-
-  
-  
-
-    Some HTML Functionality
-
-    Color and Alignment
-
-    This text is centered.
-
-    This is a red text with blue and green inline text.
-
   
 
 
   
-
-    STL
-
-    
-
-  
-
-
-  
-
-    Data Projector
-
-    
-
-    
-
-  
-
-
-  
-
-    Print
-
-    Back
 
   
 
