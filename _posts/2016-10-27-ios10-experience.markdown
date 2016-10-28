@@ -28,7 +28,7 @@ vertical:		</section><section markdown="1">
 
 ## {{ page.title }}
 <hr>
-most impressive: opening
+most impressive feeling: **more opening !**
 <hr>
 #### {{ page.author }}
 
@@ -40,7 +40,7 @@ most impressive: opening
 
 
 
-## imeseage!
+## imeseage !
 
 
 
@@ -59,25 +59,24 @@ ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，�
 通知中心的搜索页面相比原来差别很大。每个应用的通知单独成一个小卡片。显得更加醒目。
 {{ page.vertical }}
 
+### 更加强大的地图
+
+<img src="http://yangzhl.github.io/blog/img/post/map.png" alt="ios10地图" align="center" />
 
 
-Seperate with {% raw  %}{{ page.vertical }}{% endraw %} between content for vertical slides.
+{{ page.horizontal }}
+
+### 更加智能的siri
+
+现在可以通过siri发QQ消息给好友了
 
 
 
 {{ page.horizontal }}
 
+### 更加智能化的图片分类
 
 
-Press ESC for a zoomed out overview of the presentation.
-
-
-
-{{ page.horizontal }}
-
-
-
-Press B to pause the presentation.
 
 
 
