@@ -9,7 +9,7 @@ subtitle:  	record something when I use jekyll to set up my blog
 <!-- Start Writing Below in Markdown -->
 
 
-# Table of Contents
+# 目录
 
 * TOC
 {:toc}
