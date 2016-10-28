@@ -98,6 +98,11 @@ callback([
   {
     "text": "ios10体验",
     "href": "http://localhost:4000/blog//2016/10/27/ios10-experience/"
+  } ,
+
+  {
+    "text": "jekyll 搭建github个人网站",
+    "href": "http://localhost:4000/blog//2016/10/28/jekyll-usage/"
   } 
 
 ])

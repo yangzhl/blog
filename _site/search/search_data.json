@@ -1,6 +1,16 @@
 {
   
 
+    "2016-10-28-jekyll-usage": {
+      "title": "jekyll 搭建github个人网站",
+      "content"	 : "目录  目录  jekyll、github 搭建个人博客方法          安装Ruby 配置环境变量      安装RubyGems环境      安装jekyll      Github结合使用                  使用方法          使用过程中出现的问题                          本地测试出现的问题              github为project page路径问题                                            jekyll目录结构jekyll、github 搭建个人博客方法（以Windows为例）因为Windows平台下配置环境最为的复杂，Linux和OSX环境下搭建比较简单。安装Ruby 配置环境变量安装RubyGems环境安装jekyllGithub结合使用使用方法使用过程中出现的问题本地测试出现的问题github为project page路径问题jekyll目录结构",
+      "url": "/blog//2016/10/28/jekyll-usage/",
+      "author": "yangzhl",
+      "categories": ""
+    }
+    ,
+  
+
     "2016-10-27-ios10-experience": {
       "title": "ios10体验",
       "content"	 : "      ios10体验        most impressive: opening        yangzhl    12 00 AM ,Thu, Oct 27 2016            imeseage!    ios 10对imeseage进行了重大更新.在imeage中可以做更多的事情，比如玩游戏，增加了互动性。甚至还有各种表情包，功能甚至可以强大到类似于qq,微信的即时通讯的功能。        通知中心，控制中心        控制中心由原来的一栏变成了两栏，音乐单独一栏。    通知中心的搜索页面相比原来差别很大。每个应用的通知单独成一个小卡片。显得更加醒目。        Seperate with {{ page.vertical }} between content for vertical slides.        Press ESC for a zoomed out overview of the presentation.        Press B to pause the presentation.        锁屏    锁屏界面也变化了许多：取消了原来滑动解锁，变成了连续按两次弹出密码解锁。这对于iPadmini2用户来说可能有些受不了。但对于具有指纹解锁的iPhone设备来说差别就不是很大。    向左滑动就会进入相机界面。向右滑动就会显示通知栏。默认是开启的，但是这样可能会造成隐私泄露。ios10也提供了关闭的方法。                Styling    Bold    Italics    Bold and Italics        Use MathJax for Math.            Lists                  Item 1                    Item 2                    Item                  Links    In-Line    I’m a reference-style link 1    I’m a reference-style link 1        Images    Alt-Click to zoom.            Code    Inline code.        Code Block    import numpy as npdef _set_colors():HighRGB = np.array([26, 152, 80]) / 255.            Quotes          War does not decide who is right, only who is left.            HTML    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.        Some HTML Functionality    Color and Alignment    This text is centered.    This is a red text with blue and green inline text.        STL            Data Projector                Print    Back  ",
@@ -201,6 +211,8 @@
     
   
 
+  
+    
   
     
   

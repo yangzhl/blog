@@ -2,7 +2,7 @@
 
 layout:     post
 
-title:      nba 常规赛号角拉响了
+title:      nba 常规赛号角即将拉响了
 
 author:     yangzhl
 
