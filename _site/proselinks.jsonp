@@ -67,7 +67,7 @@ callback([
 
   {
     "text": "winedt与texlive关联",
-    "href": "http://localhost:4000/blog//2016/10/23/winedt-configure/"
+    "href": "http://localhost:4000/blog//2016/10/23/winedt-configure-texlive/"
   } ,
 
   {
@@ -76,7 +76,7 @@ callback([
   } ,
 
   {
-    "text": "wordpress on vps update",
+    "text": "update wordpress on vps",
     "href": "http://localhost:4000/blog//2016/10/23/wordpress-update-by-ftp/"
   } ,
 

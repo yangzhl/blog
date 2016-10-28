@@ -5,8 +5,8 @@
     <description>An Blog Platform Used To Exchange With Others</description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 Oct 2016 16:31:05 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 16:31:05 +0800</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 17:07:44 +0800</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 17:07:44 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -252,6 +252,9 @@ HighRGB = np.array([26, 152, 80]) / 255.
 
 
 
+  git 克隆仓库（默认是master）
+
+
 git clone githup_path/https_path
 
 guthub_path是指github路径，或者https的路径
@@ -302,7 +305,7 @@ git://sub.domain.com/repo.git是指github克隆的路径
 
 
 
-&amp;emsp;而在西部马刺的顶梁柱邓肯虽然退役了，但是今年签了加索尔，并且球队的莱纳德的领袖才能逐渐凸显，加上阿德的帮助，马刺队的实力感觉有增无减。森林狼队现在聚集了一群天赋爆棚的新秀，比如唐斯，维金斯，拉文，未来的森林狼让人想起来就胆颤。湖人众小将在沃顿的指教下正逐渐成长。
+&amp;emsp;&amp;emsp;而在西部马刺的顶梁柱邓肯虽然退役了，但是今年签了加索尔，并且球队的莱纳德的领袖才能逐渐凸显，加上阿德的帮助，马刺队的实力感觉有增无减。森林狼队现在聚集了一群天赋爆棚的新秀，比如唐斯，维金斯，拉文，未来的森林狼让人想起来就胆颤。湖人众小将在沃顿的指教下正逐渐成长。
 
 &amp;emsp;&amp;emsp;短短的时间内发生了太多令人震撼的事情，不禁让我们对联盟的新赛季充满了期待。未来是能接过勒布朗的旗帜，独霸联盟呢？这一切都是未知数，就让我们慢慢的见证！
 
@@ -326,16 +329,26 @@ git://sub.domain.com/repo.git是指github克隆的路径
     
       <item>
         <title>xshell 配置ssh使用密钥公钥(public key)登录</title>
-        <description>##安装
+        <description>
+  安装
+
+
 yum install openssh-server  centos
+
 ssh一直提供两种方式登录：口令认证方式和密钥认证方式，但是密钥登录方式比较安全，因此非常有必要通过xshell配置ssh登录服务器
 
-##生成密钥
+
+  生成密钥
+
+
 利用xshell客户端产生密钥，产生密钥的过程中会要求输入一个密码，用来产生加密的私钥（这个密码一定不能忘记，在连接服务器时还需要验证这个密码），生成完后，也会产生一个公钥，文件后缀为.pub，我们需要把这本钥匙上传到我们的服务器中去。这个部分利用搭建的vsftpd服务就可以。在这里就不具体展开了。
 
 上传完后把公钥放到~/.ssh/authorized_keys 文件中去就可以了。
 
-###配置ssh
+
+  配置ssh
+
+
 </description>
         <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog//2016/10/23/xshell-ssh-configure/</link>
@@ -351,10 +364,14 @@ ssh一直提供两种方式登录：口令认证方式和密钥认证方式，�
       </item>
     
       <item>
-        <title>wordpress on vps update</title>
-        <description>####wordpress 更新版本，插件以及主题
+        <title>update wordpress on vps</title>
+        <description>wordpress 更新版本，插件以及主题
 
-####更新版本
+
+
+  更新版本
+
+
 
   备份你的WordPress数据及文件
   下载wordpress的最新安装包到你的本地，并解压
@@ -365,7 +382,10 @@ ssh一直提供两种方式登录：口令认证方式和密钥认证方式，�
 
 
 
-####更新插件
+
+  更新插件
+
+
 
   下载插件的压缩包到本地，解压
   利用ftp登录你的网站，文件上传到WordPress的wp-content中的plugins
@@ -374,8 +394,13 @@ ssh一直提供两种方式登录：口令认证方式和密钥认证方式，�
 
 
 
-####更新主题
-与上面更新插件类似
+
+  
+    更新主题
+
+    与上面更新插件类似
+  
+
 
 
 参考文献：
@@ -394,9 +419,7 @@ Upgrading WordPress - Extended Instructions
     
       <item>
         <title>winedt 破解</title>
-        <description>##winedt9
-
-
+        <description>
   
     打开winedt，到菜单options–&amp;gt;options interface…，这个选项包含了WinEdt的所有可配置的参数个功能，非常强大。单击子菜单项，已进行相关设置。
   
@@ -426,6 +449,10 @@ RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
         <link>http://localhost:4000/blog//2016/10/23/winedt-crack/</link>
         <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/winedt-crack/</guid>
         
+        <category>winedt</category>
+        
+        <category>crack</category>
+        
         
       </item>
     
@@ -435,8 +462,8 @@ RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
 打开option-&amp;gt;execution modes-&amp;gt;Tex system  找到合适的 Tex root 和Tex bin 文件夹的正确位置，点击OK，重启后很多.exe文件已经关联起来了。
 </description>
         <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog//2016/10/23/winedt-configure/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/winedt-configure/</guid>
+        <link>http://localhost:4000/blog//2016/10/23/winedt-configure-texlive/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/winedt-configure-texlive/</guid>
         
         <category>winedt</category>
         
@@ -489,8 +516,7 @@ Linux linode vps将时间改成北京时间
   其次才可以打开dos命令窗口，使用命令texdoc 
 
 
-就可以查询到帮助文档和。
-也可以选择在线查询的地址
+这样就可以查询到帮助文档，也可以选择在线查询
 </description>
         <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/blog//2016/10/23/texlive-lookup-local-document/</link>

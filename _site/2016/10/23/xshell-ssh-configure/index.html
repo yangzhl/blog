@@ -280,6 +280,18 @@
 	 
 	
 	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
 	
 
 	
@@ -636,16 +648,26 @@ img:active{
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<p>##安装
-<code class="highlighter-rouge">yum install openssh-server</code>  centos
-ssh一直提供两种方式登录：口令认证方式和密钥认证方式，但是密钥登录方式比较安全，因此非常有必要通过xshell配置ssh登录服务器</p>
+<ul>
+  <li>安装</li>
+</ul>
 
-<p>##生成密钥
-利用xshell客户端产生密钥，产生密钥的过程中会要求输入一个密码，用来产生加密的私钥（<em>这个密码一定不能忘记，在连接服务器时还需要验证这个密码</em>），生成完后，也会产生一个公钥，文件后缀为.pub，我们需要把这本钥匙上传到我们的服务器中去。这个部分利用搭建的vsftpd服务就可以。在这里就不具体展开了。</p>
+<p><code class="highlighter-rouge">yum install openssh-server</code>  centos</p>
+
+<p>ssh一直提供两种方式登录：口令认证方式和密钥认证方式，但是密钥登录方式比较安全，因此非常有必要通过xshell配置ssh登录服务器</p>
+
+<ul>
+  <li>生成密钥</li>
+</ul>
+
+<p>利用xshell客户端产生密钥，产生密钥的过程中会要求输入一个密码，用来产生加密的私钥（<em>这个密码一定不能忘记，在连接服务器时还需要验证这个密码</em>），生成完后，也会产生一个公钥，文件后缀为.pub，我们需要把这本钥匙上传到我们的服务器中去。这个部分利用搭建的vsftpd服务就可以。在这里就不具体展开了。</p>
 
 <p>上传完后把公钥放到<code class="highlighter-rouge">~/.ssh/authorized_keys</code> 文件中去就可以了。</p>
 
-<p>###配置ssh</p>
+<ul>
+  <li>配置ssh</li>
+</ul>
+
 
 
 
@@ -662,7 +684,7 @@ ssh一直提供两种方式登录：口令认证方式和密钥认证方式，�
 <ul class="pager">
 	
 	<li class="previous">
-		<a href="/blog/2016/10/23/wordpress-update-by-ftp/" data-toggle="tooltip" data-placement="top" title="wordpress on vps update">&larr; Previous Post</a>
+		<a href="/blog/2016/10/23/wordpress-update-by-ftp/" data-toggle="tooltip" data-placement="top" title="update wordpress on vps">&larr; Previous Post</a>
 	</li>
 	
 	

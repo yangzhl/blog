@@ -320,6 +320,18 @@
 	 
 	
 	
+			
+		
+			
+		
+	
+	
+			
+		
+			
+		
+	
+	
 	
 
 	
@@ -648,22 +660,42 @@ img:active{
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<p>//安装sshd服务
-$ sudo apt-get install openssh-server
-//开启服务
-$ /etc/init.d/ssh start
-//关闭服务
-$ /etc/init.d/ssh stop
-//重启服务
-$ /etc/init.d/ssh restart
-CentOS上检设置：</p>
-<ol>
-  <li>关闭防火墙
-service iptables stop
-chkconfig iptables off</li>
-  <li>启动ssh服务
-service sshd start</li>
-</ol>
+<ul>
+  <li>安装sshd服务
+    <div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt-get install openssh-server
+</code></pre>
+    </div>
+  </li>
+  <li>开启服务
+    <div class="highlighter-rouge"><pre class="highlight"><code>$ /etc/init.d/ssh start
+</code></pre>
+    </div>
+  </li>
+  <li>关闭服务
+    <div class="highlighter-rouge"><pre class="highlight"><code>$ /etc/init.d/ssh stop
+</code></pre>
+    </div>
+  </li>
+  <li>重启服务
+    <div class="highlighter-rouge"><pre class="highlight"><code>$ /etc/init.d/ssh restart
+</code></pre>
+    </div>
+  </li>
+  <li>CentOS上检设置：
+    <ol>
+      <li>关闭防火墙
+        <div class="highlighter-rouge"><pre class="highlight"><code> service iptables stop
+ chkconfig iptables off
+</code></pre>
+        </div>
+      </li>
+      <li>启动ssh服务
+ <code class="highlighter-rouge">
+service sshd start
+</code></li>
+    </ol>
+  </li>
+</ul>
 
 
 

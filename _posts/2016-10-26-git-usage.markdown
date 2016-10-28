@@ -19,7 +19,7 @@ subtitle:  	github usage
 
 
 * git 克隆仓库（默认是master）
-{:toc}
+
 
 `git clone githup_path/https_path`
         
@@ -27,13 +27,13 @@ guthub_path是指github路径，或者https的路径
 
 
 * git clone branch
-{:toc}
+
 
 `git clone -b mybranch --single-branch git://sub.domain.com/repo.git`
 mybranch 是指github的branch(分支)的名字
 git://sub.domain.com/repo.git是指github克隆的路径
 * git ssh 远程登录
-{:toc}
+
 
 <div class="footer">
         &copy; 2016.10.26 yangzhl

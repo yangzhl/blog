@@ -1,14 +1,18 @@
 ---
 layout:     notebook
-title:      wordpress on vps update
+title:      update wordpress on vps 
 author:     yangzhl
 tags: 		vps wordpress 
 subtitle:    show you how to update wordpress on vps
 ---
 
-####wordpress 更新版本，插件以及主题
+wordpress 更新版本，插件以及主题
 - - -
-####更新版本
+
+
+* 更新版本
+
+
 1. 备份你的WordPress数据及文件
 2. 下载wordpress的最新安装包到你的本地，并解压
 3. (deactivate)停用所有的插件对你的WordPress网站。
@@ -18,15 +22,19 @@ subtitle:    show you how to update wordpress on vps
 
 
 - - -
-####更新插件
+* 更新插件
+
+
 1. 下载插件的压缩包到本地，解压
 2. 利用ftp登录你的网站，文件上传到WordPress的wp-content中的plugins
 3. update httpd,然后刷新的的网站
 
 - - -
 
-####更新主题
-与上面更新插件类似
+* 更新主题
+
+
+    与上面更新插件类似
 
 - - -
 参考文献：

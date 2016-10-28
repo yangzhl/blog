@@ -1,10 +1,11 @@
 ---
-layout: project
+layout: notebook
 title: winedt 破解
-description: "crack winedt "
-header-img: "img/home-bg.jpg"
+author:     yangzhl
+tags: 		winedt crack
+subtitle:   延长winedt使用时间
 ---
-##winedt9 
+
 
 1. 打开winedt，到菜单options-->options interface...，这个选项包含了WinEdt的所有可配置的参数个功能，非常强大。单击子菜单项，已进行相关设置。
 
@@ -21,4 +22,4 @@ header-img: "img/home-bg.jpg"
 ```
 RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
 ```
-然后单击保存。到此破解WinEdt的步骤基本完成，但是暂时不要关闭WinEdt程序，我们看看效果。
+   然后单击保存。到此破解WinEdt的步骤基本完成，但是暂时不要关闭WinEdt程序，我们看看效果。
