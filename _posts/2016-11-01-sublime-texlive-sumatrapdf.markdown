@@ -14,6 +14,7 @@ subtitle:  	SublimeText/LaTeXTools
 {:toc}
 * 配置
 * 出现问题
+ sumatrapdf 无法加入path
 * [参考](https://github.com/ig0774/LaTeXTools)
 
 待更新
