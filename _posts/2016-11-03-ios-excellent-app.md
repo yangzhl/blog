@@ -12,7 +12,6 @@ subtitle:  	iso excellent app
 ![MarkLite](http://i1.piimg.com/567954/018ab7a3cb7569aft.jpg)
 ### mathstudio
 该应用虽然不到10M，但是功能简直逆天，堪称ios的mathmatica软件。如果用在iPad上效果更好了。
-<center>
 ![MarkLite](http://p1.bqimg.com/567954/3e6d7fbb16807b62t.jpg)
 ![MarkLite](http://i1.piimg.com/567954/6d141d2bd5cd7aa0t.jpg)
 ![MarkLite](http://p1.bqimg.com/567954/3138e9a9ceb7f683t.jpg)
