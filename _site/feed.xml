@@ -5,9 +5,65 @@
     <description>It's been a long day without you my friend </description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Oct 2016 08:13:17 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 08:13:17 +0800</lastBuildDate>
+    <pubDate>Thu, 03 Nov 2016 17:39:35 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Nov 2016 17:39:35 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>配置sublime latex tools</title>
+        <description>
+
+Table of Contents
+
+
+  Table of Contents
+
+
+  配置
+  出现问题
+ sumatrapdf 无法加入path
+  参考
+
+
+待更新
+2016.11.1
+</description>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog//2016/11/01/sublime-texlive-sumatrapdf/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//2016/11/01/sublime-texlive-sumatrapdf/</guid>
+        
+        <category>sublime</category>
+        
+        <category>texlive</category>
+        
+        <category>sumatrapdf</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ios逆天软件推荐</title>
+        <description>
+marklite
+非常轻量级支持markdown的手机应用。本文就是用该软件写的，强大吧！！！😂
+
+mathstudio
+该应用虽然不到10M，但是功能简直逆天，堪称ios的mathmatica软件。如果用在iPad上效果更好了。
+
+![MarkLite](http://p1.bqimg.com/567954/3e6d7fbb16807b62t.jpg)
+![MarkLite](http://i1.piimg.com/567954/6d141d2bd5cd7aa0t.jpg)
+![MarkLite](http://p1.bqimg.com/567954/3138e9a9ceb7f683t.jpg)
+
+
+</description>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog//2016/11/01/ios-excellent-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//2016/11/01/ios-excellent-app/</guid>
+        
+        <category>ios</category>
+        
+        
+      </item>
     
       <item>
         <title>jekyll 搭建github个人网站</title>
@@ -451,61 +507,6 @@ RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
         <category>texlive</category>
         
         <category>connect</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>vps change time zone</title>
-        <description>
-  先登陆你的ssh，命令：date 看下时间是不是北京时间，如果不是我们把他改成北京时间。
-  命令：
-rm -rf /etc/localtime
-ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-应该就OK了！用date瞅瞅系统时间已经变成北京了吧
-上海和北京时区一样的，时区的配置文件在/usr/share/zoneinfo 里面
-
-
-如果此时你的vps时间已经改成北京时间就不用看下面了，如果此时你的vps时间还没有修改好。再试下命令：
-ntpdate stdtime.sinica.edu.tw（如果不行，就换这个ntpdate us.pool.ntp.org）
-使用ntpdate stdtime.sinica.edu.tw 时候如果提示这个命令，先安装 ntpdate就可以了。
-
-centos 系统的vps用命令：
-yum -y install ntpdate ntp
-Ubuntu系统的：
-sudo apt-get install -y ntpdate ntp
-
-
-安装完毕再试这个命令，如果还不可以的话，一般情况就是母鸡做了设置不让修改你vps的时间了，vpsma没有想到好的办法，可以写信或者发ticket给你的vps商，告诉他你的时区。看下他们可以帮忙把你vps修改成北京时间吗。
-Linux linode vps将时间改成北京时间
-</description>
-        <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog//2016/10/23/vps-change-time-zone/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/vps-change-time-zone/</guid>
-        
-        <category>vps</category>
-        
-        <category>timezone</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>texlive 查询本地文档使用说明</title>
-        <description>
-  首先得先将texlive的bin加入path变量当中
-  其次才可以打开dos命令窗口，使用命令texdoc 
-
-
-这样就可以查询到帮助文档，也可以选择在线查询
-</description>
-        <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog//2016/10/23/texlive-lookup-local-document/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/texlive-lookup-local-document/</guid>
-        
-        <category>texlive</category>
-        
-        <category>texdoc</category>
         
         
       </item>
