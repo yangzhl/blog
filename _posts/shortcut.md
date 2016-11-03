@@ -1,0 +1,1 @@
+ShortCut 的可选值
