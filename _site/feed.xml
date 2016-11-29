@@ -5,19 +5,67 @@
     <description>It's been a long day without you my friend </description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Nov 2016 17:44:06 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Nov 2016 17:44:06 +0800</lastBuildDate>
+    <pubDate>Tue, 29 Nov 2016 10:39:23 +0800</pubDate>
+    <lastBuildDate>Tue, 29 Nov 2016 10:39:23 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>腾讯云主机搭建个人云盘</title>
+        <description>
+
+Table of Contents
+
+
+  Table of Contents
+  私有云 nas    
+      参考资料
+    
+  
+
+
+私有云 nas
+
+你是否还在为最近频繁关闭的各大云，比如金山的快盘，360云盘，以及新浪微盘，而苦恼于云盘数据无法及时下载。那么开始私有云之旅吧。让数据掌握在自己的手中，避免因数据被扫描而带来的苦恼。今天就给大家推荐下seafile这款国内开发的软件来搭建你的私有云
+
+
+本人使用的是腾讯云vps搭建的,值得注意的是按照正常的步骤配置好seafile后，可能还不能后成功登陆你的seafile页面。原因可能是防火墙没配置好，还有可能是你的vps设置了安全组。比如这个问题就困扰了我许久，原因是腾讯云设置了安全组规则，你得开放相应的端口才能成功。
+
+
+参考资料
+
+  https://manual-cn.seafile.com/
+  http://bbs.qcloud.com/thread-24790-1-1.html
+  http://blog.topspeedsnail.com/archives/8346
+  https://github.com/yangzhl/seafileserverinstallercn
+
+
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog//2016/11/29/seafile-your-own-privite-cloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//2016/11/29/seafile-your-own-privite-cloud/</guid>
+        
+        <category>seafile</category>
+        
+        <category>nas</category>
+        
+        
+      </item>
     
       <item>
         <title>ios逆天软件推荐</title>
         <description>
+
 marklite
+
 非常轻量级支持markdown的手机应用。本文就是用该软件写的，强大吧！！！😂
 
 
+
 mathstudio
+
 该应用虽然不到10M，但是功能简直逆天，堪称ios的mathmatica软件。如果用在iPad上效果更好了。
+
+
 
 
 
@@ -489,24 +537,6 @@ RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
         <category>winedt</category>
         
         <category>crack</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>winedt与texlive关联</title>
-        <description>#
-打开option-&amp;gt;execution modes-&amp;gt;Tex system  找到合适的 Tex root 和Tex bin 文件夹的正确位置，点击OK，重启后很多.exe文件已经关联起来了。
-</description>
-        <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog//2016/10/23/winedt-configure-texlive/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/winedt-configure-texlive/</guid>
-        
-        <category>winedt</category>
-        
-        <category>texlive</category>
-        
-        <category>connect</category>
         
         
       </item>

@@ -113,6 +113,11 @@ callback([
   {
     "text": "ios逆天软件推荐",
     "href": "http://localhost:4000/blog//2016/11/03/ios-excellent-app/"
+  } ,
+
+  {
+    "text": "腾讯云主机搭建个人云盘",
+    "href": "http://localhost:4000/blog//2016/11/29/seafile-your-own-privite-cloud/"
   } 
 
 ])
