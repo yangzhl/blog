@@ -5,9 +5,225 @@
     <description>It's been a long day without you my friend </description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 Nov 2016 10:39:23 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Nov 2016 10:39:23 +0800</lastBuildDate>
+    <pubDate>Sun, 18 Dec 2016 19:32:54 +0800</pubDate>
+    <lastBuildDate>Sun, 18 Dec 2016 19:32:54 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>兴隆山滑雪</title>
+        <description>
+  
+
+    兴隆山滑雪
+
+    
+
+    Gino Young
+
+    12 : 00 AM ,Sun, Dec 18 2016
+
+  
+
+
+  
+    
+
+    F11 to Fullscreen!
+
+    Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling.
+
+  
+
+
+  
+
+    Seperate with {{ page.horizontal }} between content for horizontal slides.
+
+  
+  
+
+    Seperate with {{ page.vertical }} between content for vertical slides.
+
+  
+
+
+  
+
+    Press ESC for a zoomed out overview of the presentation.
+
+  
+
+
+  
+
+    Press B to pause the presentation.
+
+  
+
+
+  
+
+    Header 1
+
+    Header 2
+
+    Header 3
+
+  
+
+
+  
+
+    Styling
+
+    Bold
+
+    Italics
+
+    Bold and Italics
+
+  
+
+
+  
+
+    Use MathJax for Math.
+
+    
+
+  
+
+
+  
+
+    Lists
+
+    
+      
+        Item 1
+      
+      
+        Item 2
+      
+      
+        Item
+      
+    
+
+  
+
+
+  
+
+    Links
+
+    In-Line
+
+    I’m a reference-style link 1
+
+    I’m a reference-style link 1
+
+  
+
+
+  
+
+    Images
+
+    Alt-Click to zoom.
+
+    
+
+  
+
+
+  
+
+    Code
+
+    Inline code.
+
+  
+  
+
+    Code Block
+
+    import numpy as np
+def _set_colors():
+HighRGB = np.array([26, 152, 80]) / 255.
+
+    
+
+  
+
+
+  
+
+    Quotes
+
+    
+      War does not decide who is right, only who is left.
+    
+
+  
+
+
+  
+
+    HTML
+
+    Now, you CAN write in HTML using this template. If you want to create HTML presentations using this framework head over to reveal.js for reference.  For a power-point like interactive tool for creating presentations with this theme, check slides.com.
+
+  
+  
+
+    Some HTML Functionality
+
+    Color and Alignment
+
+    This text is centered.
+
+    This is a red text with blue and green inline text.
+
+  
+
+
+  
+
+    STL
+
+    
+
+  
+
+
+  
+
+    Data Projector
+
+    
+
+    
+  
+
+
+  
+
+    Print
+
+    Back
+
+  
+
+</description>
+        <pubDate>Sun, 18 Dec 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog//2016/12/18/go-skiing/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//2016/12/18/go-skiing/</guid>
+        
+        <category>travel</category>
+        
+        
+      </item>
     
       <item>
         <title>腾讯云主机搭建个人云盘</title>
@@ -498,45 +714,6 @@ Upgrading WordPress - Extended Instructions
         <category>vps</category>
         
         <category>wordpress</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>winedt 破解</title>
-        <description>
-  
-    打开winedt，到菜单options–&amp;gt;options interface…，这个选项包含了WinEdt的所有可配置的参数个功能，非常强大。单击子菜单项，已进行相关设置。
-  
-  
-    刚才单击后，在WInEdt编辑区域左侧会弹出树形配置窗口，在第一层树形节点最下面找到advance configuration…-，单击展开。
-  
-  
-    在展开后的子树分支中靠上面的地方找到event handlers子项，单击并展开。
-  
-  
-    在刚展开的子树分支项中靠前面点找到Exit子项，并双击。
-  
-  
-    然后可以看到右边弹出一个名为Exit.edt的配置文件，这个文件就是每次关闭WinEdt是，WinEdt会自行执行该文件中的语句。
-  
-  
-    在配置文件Exit.edt最后一句“END;”前面一行加入
-  
-
-
-RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 9', 'Inst');
-
-
-然后单击保存。到此破解WinEdt的步骤基本完成，但是暂时不要关闭WinEdt程序，我们看看效果。
-</description>
-        <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog//2016/10/23/winedt-crack/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//2016/10/23/winedt-crack/</guid>
-        
-        <category>winedt</category>
-        
-        <category>crack</category>
         
         
       </item>

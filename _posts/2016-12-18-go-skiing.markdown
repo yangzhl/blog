@@ -1,0 +1,105 @@
+---
+layout:     	slide
+title:     		兴隆山滑雪
+author:     	Gino Young
+tags:           travel
+subtitle:    	go skking
+
+theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
+trans:		fade # default/cube/page/concave/zoom/linear/fade/none
+
+horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+vertical:		</section><section markdown="1">
+---
+<section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+
+## {{ page.title }}
+
+<hr>
+
+#### {{ page.author }}
+
+#### {{ page.date | | date: "%I : %M %p ,%a, %b %d %Y"}}
+
+{{ page.horizontal }}
+<!-- Start Writing Below in Markdown -->
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4733.JPG)
+
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4734.JPG)
+
+{{ page.vertical }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4735.JPG)
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4736.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4737.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4738.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4739.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4740.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_47341.JPG)
+
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4742.JPG)
+{{ page.vertical }}
+
+
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4744.JPG)
+{{ page.horizontal }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4735.JPG)
+{{ page.vertical }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4746.JPG)
+
+{{ page.vertical }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4747.JPG)
+{{ page.horizontal }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4748.JPG)
+{{ page.horizontal }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4749.JPG)
+{{ page.horizontal }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4750.JPG)
+{{ page.vertical }}
+
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4751.JPG)
+{{ page.vertical }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4752.JPG)
+{{ page.horizontal }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4753.JPG)
+{{ page.horizontal }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4754.JPG)
+{{ page.vertical }}
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4755.JPG)
+{{ page.horizontal }}
+##合影
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4756.JPG)
+{{ page.vertical }}
+<!-- End Here -->
+# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
+
+# [Back]({{ site.url }}{{ site.baseurl }})
+
+</section></section>
