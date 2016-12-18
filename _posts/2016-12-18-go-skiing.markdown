@@ -3,12 +3,13 @@ layout:     	slide
 title:     		兴隆山滑雪
 author:     	Gino Young
 tags:           travel
-subtitle:    	go skking
+subtitle:    	go skiing
 
 theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		fade # default/cube/page/concave/zoom/linear/fade/none
 
 horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+
 vertical:		</section><section markdown="1">
 ---
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
@@ -94,7 +95,7 @@ vertical:		</section><section markdown="1">
 {{ page.vertical }}
 ![picture](http://yangzhl.github.io/blog/img/post/IMG_4755.JPG)
 {{ page.horizontal }}
-##合影
+## 合影
 ![picture](http://yangzhl.github.io/blog/img/post/IMG_4756.JPG)
 {{ page.vertical }}
 <!-- End Here -->
