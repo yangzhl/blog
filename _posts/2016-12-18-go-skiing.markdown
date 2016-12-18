@@ -57,7 +57,7 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal }}
 
-![picture](http://yangzhl.github.io/blog/img/post/IMG_47341.JPG)
+![picture](http://yangzhl.github.io/blog/img/post/IMG_4741.JPG)
 
 {{ page.horizontal }}
 
@@ -93,8 +93,6 @@ vertical:		</section><section markdown="1">
 {{ page.horizontal }}
 ![picture](http://yangzhl.github.io/blog/img/post/IMG_4754.JPG)
 {{ page.vertical }}
-![picture](http://yangzhl.github.io/blog/img/post/IMG_4755.JPG)
-{{ page.horizontal }}
 ## 合影
 ![picture](http://yangzhl.github.io/blog/img/post/IMG_4756.JPG)
 {{ page.vertical }}
